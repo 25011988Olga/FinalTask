@@ -1,5 +1,5 @@
 ﻿
-string[] array1 = new string[6] {"589", "add", "4578", "67ad", "-78num", "10"};
+string[] array1 = new string[7] {"589","hey!", "add", "4578", "67ad", "-78num", "10"};
 string[] array2 = new string[array1.Length];
 int count = 0;
 void InputArray(string[] array1, string[] array2)
